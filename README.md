@@ -1,1 +1,1 @@
-# trapezoidRule
+# Trapezoid Rule
